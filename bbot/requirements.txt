@@ -7,7 +7,7 @@ idna==2.7
 kiwisolver==1.0.1
 matplotlib==2.2.2
 numpy==1.14.3
-opencv-contrib-python==3.4.1.15
+opencv-contrib-python==4.2.0.32
 prettytable==0.7.2
 pyparsing==2.2.0
 pyproj==1.9.5.1
